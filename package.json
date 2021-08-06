@@ -1,0 +1,19 @@
+{
+  "name": "gatsbycloud",
+  "version": "1.0.0",
+  "description": "jngalabau",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uvenil/gatsbycloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uvenil/gatsbycloud/issues"
+  },
+  "homepage": "https://github.com/uvenil/gatsbycloud#readme"
+}
